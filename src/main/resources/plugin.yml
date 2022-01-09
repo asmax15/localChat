@@ -1,6 +1,9 @@
-name: ExamplePlugin
+name: LocalChat
 api-version: 1.16
 authors:
-  - Me
-main: com.example.exampleplugin
+  - AsMax
+main: me.asmax.localchat.LocalChat
 version: @version@
+
+commands:
+   channel:
